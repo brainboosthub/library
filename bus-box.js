@@ -2,7 +2,7 @@
   'use strict';
 
   const BUS_WEB_APP_URL =
-    'https://script.google.com/macros/s/AKfycbzq9SWm2mEBe_gsusJKNEj7hlORO29BejRrOI7CoapwBj145UCyUBccmzdv4pzLAHlW/exec';
+    'https://script.google.com/macros/s/AKfycbwOSXaiaikDjopmmMA6z1UhKclCdTzjZmk_tPGv3eXXZessOUlB-ngCbfth58T-RKsx0Q/exec';
   const BUS_API_URL = BUS_WEB_APP_URL + '?mode=bus';
 
   let busItems = [];
