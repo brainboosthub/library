@@ -1,7 +1,7 @@
 (() => {
   'use strict';
 
-  const API_URL = 'https://script.google.com/macros/s/AKfycbzq9SWm2mEBe_gsusJKNEj7hlORO29BejRrOI7CoapwBj145UCyUBccmzdv4pzLAHlW/exec';
+  const API_URL = 'https://script.google.com/macros/s/AKfycbwOSXaiaikDjopmmMA6z1UhKclCdTzjZmk_tPGv3eXXZessOUlB-ngCbfth58T-RKsx0Q/exec';
   const FALLBACK_PHOTO = 'https://static.wixstatic.com/media/a503e5_9064df4bf13044dab24382c889fa7d87~mv2.png';
 
   const $ = id => document.getElementById(id);
