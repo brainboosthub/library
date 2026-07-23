@@ -3,7 +3,7 @@
 
   /* URL /exec ของโปรเจกต์ Apps Script ห้องเรียน */
   const CLASSROOM_WEB_APP_URL =
-    'https://script.google.com/macros/s/AKfycbysu0yLm0UuP0t5HN_PouiI2-C9OR9TD9XI31hKcdqLpfscWlAAumMEx6JcXukh3twGJg/exec';
+    'https://script.google.com/macros/s/AKfycbzjn1yXf9GREPO6JfRxFcQB4CUL7WfTvW_jyI76x3akRvKK8NJDTXB8Xhm9xEtIvKvf/exec';
 
   const API_URL = CLASSROOM_WEB_APP_URL + '?mode=classroomBox';
 
