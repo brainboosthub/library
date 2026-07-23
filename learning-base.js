@@ -2,7 +2,7 @@
 (() => {
   'use strict';
 
-  const API_URL = 'https://script.google.com/macros/s/AKfycbzq9SWm2mEBe_gsusJKNEj7hlORO29BejRrOI7CoapwBj145UCyUBccmzdv4pzLAHlW/exec';
+  const API_URL = 'https://script.google.com/macros/s/AKfycbwOSXaiaikDjopmmMA6z1UhKclCdTzjZmk_tPGv3eXXZessOUlB-ngCbfth58T-RKsx0Q/exec'; // อำเภอ
   const TEACHER_URL = API_URL + '?page=teacher';
   let student = JSON.parse(localStorage.getItem('LEARN_STUDENT') || 'null');
   let editProfileRemovePhoto = false;
